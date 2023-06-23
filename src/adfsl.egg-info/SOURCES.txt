@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+src/ActionDetectionforSignLanguage/version.py
+src/adfsl.egg-info/PKG-INFO
+src/adfsl.egg-info/SOURCES.txt
+src/adfsl.egg-info/dependency_links.txt
+src/adfsl.egg-info/requires.txt
+src/adfsl.egg-info/top_level.txt
