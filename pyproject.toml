@@ -2,7 +2,7 @@
 name = "adfsl"
 
 dependencies = [
-"cv2",
+"opencv-python",
 "jupyterlab",
 "matplotlib",
 "mediapipe",
