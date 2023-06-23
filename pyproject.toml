@@ -1,5 +1,9 @@
 [project]
 name = "adfsl"
+authors = [
+    { name = "Nicholas Renotte" },
+    { name = "Eric Kerecz" },
+]
 
 dependencies = [
 "opencv-python",
