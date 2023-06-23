@@ -1,0 +1,23 @@
+[project]
+name = "adfsl"
+authors = [
+    { name = "Nicholas Renotte" },
+    { name = "Eric Kerecz" },
+]
+
+dependencies = [
+"opencv-python",
+"jupyterlab",
+"matplotlib",
+"mediapipe",
+"numpy",
+"opencv-python",
+"scikit-learn",
+"tensorflow-cpu==2.4.1",
+#"tensorflow-gpu=2.4.1",
+]
+requires-python = ">=3.8"
+dynamic = ["version"]
+
+[project.urls]
+Soruce = "https://github.com/nicknochnack/ActionDetectionforSignLanguage"
