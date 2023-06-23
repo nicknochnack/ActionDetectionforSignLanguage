@@ -1,8 +1,0 @@
-cv2
-jupyterlab
-matplotlib
-mediapipe
-numpy
-opencv-python
-scikit-learn
-tensorflow-cpu==2.4.1
